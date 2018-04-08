@@ -9,7 +9,7 @@ The following is the fifth question in my programming tasks question sheet.
 ```
 #lang racket
 
-(define (hamming-weight ls)
+(define (hamming-weight ls) ; the hamming weight function takes in a list defined by the variable ls. it returns the number of non zero elements in this list.
   
   (if (null? ls)
        0

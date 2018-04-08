@@ -9,9 +9,9 @@ The following is the eighth question in my programming tasks question sheet.
 ```
 #lang racket
 
-(define (chse x y z); defines my function with 3 variables x, y, z
-  (if (null? x)
-      '(); return statement
+(define (chse x y z); defines my function with 3 variables x, y, z, the chse function takes 3 lists and compares the positons of the 1s and 0s in them returning a list made up of the 3.
+  (if (null? x); if x returns null then return the following condition
+      '();
       (cond
         (
          (= 1
@@ -30,5 +30,6 @@ The following is the eighth question in my programming tasks question sheet.
 (chse (list 0 0 0 0 1 1 1 1) (list 0 0 1 1 0 0 1 1) (list 0 1 0 1 0 1 0 1))
 (display "Results are as Follows for chse2 \n")
 (chse (list 1 1 1 1 0 0 0 0) (list 1 0 0 1 0 0 0 1) (list 1 0 1 0 0 0 0 1))
-
 ```
+
+![ans8](https://prnt.sc/j2ikxw.png "ans8")

@@ -9,7 +9,7 @@ The following is the second question in my programming tasks question sheet.
 ```
 #lang racket
 
-(define (collatz-list n)
+(define (collatz-list n) ; the collatz-list function takes in variable n and takes the input defined by the user and returns a list of recurvise numbers.
   (if (= n 1)
 
       (display "collatz-list: \n")
@@ -24,3 +24,4 @@ The following is the second question in my programming tasks question sheet.
 (collatz-list 9)
 (collatz-list 2)
 ```
+![ans2](http://prntscr.com/j2ilj5.png "ans2")

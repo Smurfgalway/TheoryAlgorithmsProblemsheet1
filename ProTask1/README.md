@@ -39,3 +39,5 @@ The following is the first question in my programming tasks question sheet.
 (decide-prime? 30)
 
 ```
+
+![ans1](http://prntscr.com/j2ilzt.png "ans1")

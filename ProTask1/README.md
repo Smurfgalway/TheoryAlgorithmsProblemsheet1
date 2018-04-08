@@ -7,7 +7,7 @@ The following is the first question in my programming tasks question sheet.
 
 
 ```
-#### #lang racket
+#lang racket
 
 (display "\n Deciding what is a Prime number using the Brute Force Algorithm")
 ; a prime number s a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers

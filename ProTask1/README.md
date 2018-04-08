@@ -3,9 +3,10 @@ The following is the first question in my programming tasks question sheet.
 
 ## Question:
 
-![1](https://i.imgur.com/YdqBhTe.png Protask1)
+![protask1](https://i.imgur.com/YdqBhTe.png "Protask1")
 
-...
+
+```
 #### #lang racket
 
 (display "\n Deciding what is a Prime number using the Brute Force Algorithm")
@@ -36,4 +37,5 @@ The following is the first question in my programming tasks question sheet.
 (display "\n true of false 30  is a prime number \n")
 (display "This is ")
 (decide-prime? 30)
-...
+
+```

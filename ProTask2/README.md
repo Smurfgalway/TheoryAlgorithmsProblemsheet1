@@ -24,4 +24,4 @@ The following is the second question in my programming tasks question sheet.
 (collatz-list 9)
 (collatz-list 2)
 ```
-![ans2](http://prntscr.com/j2ilj5.png "ans2")
+![ans2](https://imgur.com/kk5ofRT.png "ans2")

@@ -1,7 +1,7 @@
 #lang racket
 
-(define (sod2 x y z)
-  (if (null? x)
+(define (sod2 x y z) ; define my function taking  in 3 variables x,y,z, the sod2 function takes in 3 lists denominated by the variables x y and z, return the positions of the 1s and 0s into a seperate list.
+  (if (null? x) ; if x is null then return the following condition
   '()
   (cond
     ((= 0 (modulo

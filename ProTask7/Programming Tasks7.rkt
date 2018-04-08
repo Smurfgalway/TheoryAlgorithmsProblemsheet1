@@ -1,6 +1,6 @@
 #lang racket
 
-(define (maj x y z); defines my function with 3 variables x, y, z
+(define (maj x y z); defines my function with 3 variables x, y, z, the maj function takes 3 lists and where the 1s or zeros match the most among the 3 lists will be printed onto a seperate list
   (if (null? x)
       '(); return statement
       (if(= (car x) (car y))

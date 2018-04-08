@@ -1,8 +1,8 @@
 #lang racket
 
-(define (chse x y z); defines my function with 3 variables x, y, z
-  (if (null? x)
-      '(); return statement
+(define (chse x y z); defines my function with 3 variables x, y, z, the chse function takes 3 lists and compares the positons of the 1s and 0s in them returning a list made up of the 3.
+  (if (null? x); if x returns null then return the following condition
+      '();
       (cond
         (
          (= 1

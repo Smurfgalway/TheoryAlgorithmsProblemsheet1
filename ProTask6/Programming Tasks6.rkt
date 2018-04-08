@@ -1,6 +1,6 @@
 #lang racket
 
-(define (hamming-distance ls ls2)
+(define (hamming-distance ls ls2); define my function with 2 variables, the hamming distance takes 2 lists and compares them against eachother
   (if (null? ls)
       0
       (if

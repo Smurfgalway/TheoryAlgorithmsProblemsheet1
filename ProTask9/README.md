@@ -25,3 +25,4 @@ The following is the eighth question in my programming tasks question sheet.
 (sod2 (list 0 0 0 0 1 1 1 1) (list 0 0 1 1 0 0 1 1) (list 0 1 0 1 0 1 0 1))
 
 ```
+![ans9](https://imgur.com/1f8xq2L.png "ans9")

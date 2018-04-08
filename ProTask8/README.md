@@ -32,4 +32,4 @@ The following is the eighth question in my programming tasks question sheet.
 (chse (list 1 1 1 1 0 0 0 0) (list 1 0 0 1 0 0 0 1) (list 1 0 1 0 0 0 0 1))
 ```
 
-![ans8](https://prnt.sc/j2ikxw.png "ans8")
+![ans8](https://imgur.com/7bW47X1.png "ans8")

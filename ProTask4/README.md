@@ -22,3 +22,5 @@ The following is the fourth question in my programming tasks question sheet.
 
 (sublsum (list 1 2 3 4 -5))
 ```
+
+![ans4](https://imgur.com/KujXjVC.png "ans4")

@@ -28,3 +28,4 @@ The following is the sixth question in my programming tasks question sheet.
 (hamming-distance (list 1 1 1 1 1 1 1 1) (list 1 1 1 1 1 1 1 1))
 
 ```
+![ans6](https://imgur.com/T69ZxpT.png "ans6")

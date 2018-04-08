@@ -23,3 +23,5 @@ The following is the fifth question in my programming tasks question sheet.
 (hamming-weight (list 1 1 1 1 1 1 1 1))
 (hamming-weight (list 1 1 1 0 1 0 1 0))
 ```
+
+![ans5](https://imgur.com/oUa7QvG.png "ans5")

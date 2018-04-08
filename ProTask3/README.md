@@ -39,4 +39,4 @@ The following is the third question in my programming tasks question sheet.
 > (rcycle (list 1 2 3 4 5))
 '(5 1 2 3 4)
 ```
-![ans2](https://imgur.com/lyS95Fw.png "ans2")
+![ans3](https://imgur.com/lyS95Fw.png "ans3")

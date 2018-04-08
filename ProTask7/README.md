@@ -27,3 +27,4 @@ The following is the seventh question in my programming tasks question sheet.
 (maj (list 0 1 1 0 1 0 1 1) (list 1 0 1 1 0 0 1 1) (list 0 1 1 1 0 0 0 0))
 
 ```
+![ans7](https://imgur.com/HjWKDxl.png "ans7")

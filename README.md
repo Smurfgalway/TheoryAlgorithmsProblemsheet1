@@ -14,14 +14,14 @@ When completing the tasks on this problem sheet I used the following:
 
 ### DrRacket
 
-[Dr](https://imgur.com/D4YKPr8.png "Dr racket")
+![Dr](https://imgur.com/D4YKPr8.png "Dr racket")
 
 what is DrRacket?
 DrRacket is a graphical environment for developing programs using the Racket programming languages. It is the IDE used when creating and compiling Racket files.
 
 ### Visual Studio Code
 
-[VS](http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/visual-studio-code-icon.png "visual studio code")
+![VS](http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/visual-studio-code-icon.png "visual studio code")
 
 What is visual Studio Code?
 
